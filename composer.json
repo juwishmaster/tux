@@ -1,0 +1,12 @@
+{
+    "name": "tux/tux",
+    "description": "A mvc framework",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Willy Micieli",
+            "email": "juwishmaster@juwishmaster.org"
+        }
+    ],
+    "require": {}
+}
